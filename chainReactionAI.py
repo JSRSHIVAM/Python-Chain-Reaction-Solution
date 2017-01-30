@@ -1,5 +1,5 @@
 '''
-https://www.hackerearth.com/problem/multiplayer/chainreaction/
+Challenge :  https://www.hackerearth.com/problem/multiplayer/chainreaction/
 Solution Link: https://www.hackerearth.com/submission/7019905/
 '''
 import os

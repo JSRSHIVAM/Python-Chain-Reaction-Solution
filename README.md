@@ -1,4 +1,7 @@
 # Python-Chain-Reaction-Solution
+Solution:
+![alt text](http://www.github.com/JSRSHIVAM/Python-Chain-Reaction-Solution/Submission Result.png)
+
 HackerEarth Battle of Bots AI Chain Reaction November 2016 Challenge Solution
 
 Challenge :  https://www.hackerearth.com/problem/multiplayer/chainreaction/

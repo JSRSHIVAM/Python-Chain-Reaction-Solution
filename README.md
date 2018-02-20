@@ -1,6 +1,6 @@
 # Python-Chain-Reaction-Solution
 Solution:
-![alt text](http://www.github.com/JSRSHIVAM/Python-Chain-Reaction-Solution/result.png)
+![Output of Submission Rank 20](https://github.com/JSRSHIVAM/Python-Chain-Reaction-Solution/blob/master/result.png)
 
 HackerEarth Battle of Bots AI Chain Reaction November 2016 Challenge Solution
 
